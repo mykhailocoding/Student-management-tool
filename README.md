@@ -7,7 +7,7 @@ A CLI program that allows to manage students inside the specific lecture. User c
 - Custom structs
 - Valgrind
 - Clean style and high maintainability
-
+  
 The program was tested with testcases, which allowed to cover worst-case scenarios and not just happy path.  
 
 **A bit a of personal expirience:**  
