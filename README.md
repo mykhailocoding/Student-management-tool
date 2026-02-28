@@ -1,5 +1,5 @@
 # Student management tool
-A CLI program that allows to manage students inside the specific lecture. User can either create or load a program. Then user can enrol students and give them different properties, after that user can export lecture as a CSV file. Program supports arbitrary lenght input and one lecture can contain arbitrary amount of students.  
+A CLI program that allows to manage students inside the specific lecture. User can either create or load a program. Then user can enrol students and give them different properties, after that user can export lecture as a CSV file. Program supports arbitrary lenght input and one lecture can contain arbitrary amount of students. Documented in a Doxygen style.  
 
 **Main focus areas:**  
 - File I/O and CSV files
