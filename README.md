@@ -6,6 +6,7 @@ A CLI program that allows to manage students inside the specific lecture. User c
 - Dynamic memory and arbitrary input
 - Custom structs
 - Valgrind
+- clean style and high maintainability
 
 The program was tested with testcases, which allowed to cover worst-case scenarios and not just happy path.  
 
